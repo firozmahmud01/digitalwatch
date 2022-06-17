@@ -1,5 +1,4 @@
-// keyid=AKIASNNUXCJ2VX35CNFD
-// secret access key=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
+
 
 
 
