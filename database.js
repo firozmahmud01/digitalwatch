@@ -67,5 +67,11 @@ exports.loginsub=async (email,pass)=>{
 
 
 function sendMsg(bpm,sp02,bodytemp){
-    
+    if(bpm<60){
+    console.log('too low...')
+
+
+    }else if(bpm>100){
+        console.log('too high...')
+    }
 }

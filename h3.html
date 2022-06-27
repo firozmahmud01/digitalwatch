@@ -34,6 +34,13 @@
     bpm.innerText=res.bpm
     sp02.innerText=res.sp02
     bodytemp.innerText=res.bodytemp
+    if(res.bodytemp<=0){
+      let el=document.getElementById('invisible');
+      el.style.display='none'
+    }else{
+      let el=getElementById('invisible');
+      el.style.display='block'
+    }
   }
   </script>
 
@@ -64,6 +71,7 @@
   <sup class='units'>%</sup>
   </p>
    <hr>
+<div id="invisible">
   <p class='sensor'>
   <i class='fas fa-thermometer-full' style='color:#d9534f'></i>
   <span class='sensor-labels'> Body Temperature </span>
@@ -71,7 +79,7 @@
   <sup class='units'>°C</sup>
   </p>
 
-
+</div>
   </div>
   </div>
   </div>

@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "disitalwatch",
+    "private_key_id": "a0a1d6472f48e9eeccafaad52f7ba38f2673f3c9",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9Rpn+JsEBIpNh\nEbFEI6ME5/hnMSTcTs0mzPIIYwDW/PCJMDX6gFwKOCHKfpafm78VvA/Ofg33AHrh\nCTD2/ckcZ6AxXFSv8yInFKJ81l1rPbpyMwW3ozROQPWpzAr2C+7xsAkgAX0ncBRX\nqGZ+4IXY3QQdNtvOaKh7xGrWl9letKc49nI4GRsum5z5MGYv10UdyxwHHY6hvUXM\nZuUr4pXBSO7QRBFk/INt4TV5VCKpbflGxZdNM5ltDwn22RD2aKSFpGR3bUDzBgVB\nvGhwFOIDiicJ36i1WxkVTenzIy39czQwPbvlPty0iuKTCBQoEvoMApPZXZe4tIuJ\nm1gilM0NAgMBAAECggEAO4QZRQTrmI9GN3YoPuxTxOWqQsx9sjanJKW6D3AOIgv8\nGK9Lsd6t0lrPKUy/0SVYox10/PG/M2V3vg41Utz/YYqmIQ9O49q4aQCAjW+chW2u\nFF291P4hIuAjP0aVRcP/2QiI/gLp1z5TbzLZM9kmzUfGFOecm11maTCchajO5Yuu\nkGmQGWPLNBZBtnHZnBUBa2U73Fixf/cea9lZ1bO0CgMW08SZeC3Y599uFoOp0PCt\n3SRm6L/MFqMP/z8utMHJCdMFPPyt6MnmigCUZJr82mPn3kH3i1UmNW0i0CcVEG15\nTa0R//2qslTKisu9hzm1lnuieOy49InVzZM1XhTBEwKBgQDzLI/npRK18R3KrxOK\nEQX6PngVUpxhCrRh2IBN9/xgTVXaKkM7ytzmjuwZHEkewIwWWfqhN/VX6Aa2Cq1W\neaECwICq42ZZTg6YT9oYBCpnpy1RZfHNsN7AeWPQSqFE6pXRADMQrRTP7ZGGFgRb\nQAWt7x//gwBwOLHqh06o/XBVowKBgQDHQkhCy/jHcVzhCF8I4UyRmIaSItRf4ypg\ni9UtkON8ON85m46EokZoXroBFxaAi4OB9+OgNZ7LYYbVE72wadRDGHnrNOhdcur/\ns4COKO2fFW0PwGQ4myuSzurpMzbIHcJNnSUwY7p8YejfLHTO1s5sHg/9tKSsTR+Z\nvirVR3CdjwKBgQDvDT2icQqFxbSNzbKdpcKEkOinvYBxfX56OcVX4JM/cIcXYziZ\nDQI/vPyoasAO9SZBys6xsjsD4drHFpP0ULlR5UAXvlidLjj2znkN5vpwz02jmV4t\n4NP5ztuqpdMH1rzUqyeIGz48ccT/VaGOus9af5qrKnNB3to4Pi+7vPmzlQKBgADd\nDKsdbyqOFzTycFb9gvNukca4V+tCdMCOWpIj+phjNrRtNCTm/x8cqfmvO+26rQs3\nI8lh8ho3hfoOZ9gH3V+dD4oxZIBjKxmIkZoMG1uBIEPdNZH5Oiscsm/oROiBGIJ1\nl9+pzvkTA4tUCf2LeMGHL9KNodkNTIHCDTV3ZcmJAoGAL1BoST+2Ata54ONs8F+V\nuNc6TbMxDHhMeRUIesomn1P8L05iqbgr8UuT2QwQzAj5TT0y+Ojl8fbWeWA9OY2L\nH+MNjNSY8Vor9EyEyNPwzujnXiOsDm9FJUreS/5AdrqGjik6RR96YSa21bbMJnqy\ntC/9Kk2CKFEP+Q/DMdTvAmo=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-uh9jp@disitalwatch.iam.gserviceaccount.com",
+    "client_id": "115615411977998645723",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-uh9jp%40disitalwatch.iam.gserviceaccount.com"
+  }

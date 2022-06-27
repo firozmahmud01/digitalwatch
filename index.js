@@ -2,7 +2,7 @@ const express=require('express')
 const { checkcookie, signupsub, loginsub, update, getdata } = require('./database')
 const app =express()
 const path=require('path')
-app.listen(80)
+app.listen(8080)
 app.use(express.json())
 app.use(express.urlencoded())
 
@@ -38,3 +38,4 @@ app.post('/signupsub',async(req,res)=>{
     signupsub(body)
     res.sendFile(path.resolve('./h1.html'))
 })
+
